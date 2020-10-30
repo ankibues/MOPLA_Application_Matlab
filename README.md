@@ -13,3 +13,5 @@ These geological problems include:
     to study the influence of flow partitioning on crystallographic fabric
 
 --> Simulating of 3-D flanking structures in ductile shear zones.
+
+(P.S. The code in this repository works well, but will be reorganized in a more presentable format in near future!)
