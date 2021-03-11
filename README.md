@@ -14,4 +14,4 @@ These geological problems include:
 
 --> Simulating of 3-D flanking structures in ductile shear zones.
 
-(P.S. The code in this repository works well, but will be reorganized in a more presentable format in near future!)
+(P.S. The code in this repository works well, but will be reorganized in a more presentable format in near future! Please feel free to ask any questions at abhand3@uwo.ca)
