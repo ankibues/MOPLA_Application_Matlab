@@ -1,9 +1,12 @@
-# MOPLA_Application_Matlab
-This repository contains MATLAB code that uses MOPLA (Qu et al 2016, Jiang 2016, Jiang 2014) for application to specific geological problems.
+# MOPLA_on_Matlab
 
+MOPLA_on_Matlab (based on works of Bhandari and Jiang 2021, Qu et al 2016, Jiang 2016, Jiang 2014) is a Matlab-implementation of the Multi-Order-Power-Law Approach(MOPLA) to simulate rock fabric development in Earth's lithosphere.
 
-MOPLA is a multiscale numerical model to simulate heterogeneous deformation in Earth's ductile lithosphere(Jiang 2014, Jiang 2016). This repository
-adds new code development related to MOPLA, specifically regarding its application for different geological problems.
+Some of the basic use case of geological scenarios include: 
+1. Deformation of a rheologically stronger element embedded in a heterogeneous rock medium
+2. Deformation of a rheologically weaker element embdedded in a heterogeneous rock medium
+3. Pressure in and around a rheologically stronger or weaker element embedded in a heterogeneous rock medium
+
 
 These geological problems include:
 
